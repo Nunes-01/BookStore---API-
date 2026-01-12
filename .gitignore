@@ -1,12 +1,9 @@
-# Ignorar pastas de build e relatórios locais (Essencial)
 target/
 build/
 
-# Ignorar configurações da IDE (IntelliJ)
 .idea/
 *.iml
 .mvn/
 
-# Ignorar logs do Karate
 karate.log
 karate.log.1
